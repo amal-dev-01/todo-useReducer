@@ -1,0 +1,22 @@
+
+.main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(70, 7, 76);
+    height: 10vh;
+  }
+  input{
+    border-radius: 6vh;
+    width: 30vh;
+    height: 5vh;
+  }
+  .del{
+    background-color: rgb(113, 15, 121);
+    color: white;
+
+  }
+  .top{
+    
+  }
+  
